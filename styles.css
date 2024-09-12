@@ -1,0 +1,44 @@
+body {
+    background-color: lightpink;
+    /* Rose pâle */
+    font-family: Arial, sans-serif;
+}
+
+/* Bannière du titre h1 */
+h1 {
+    background-image:url("Images/banniere.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 32px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(0.5);
+}
+
+p{image-rendering: pixelated;
+padding-right: 16px;
+padding-left: 16px;}
+
+
+
+/* Titres de section h4 */
+h4 {
+    padding-left: 32px;
+    color:red;
+    text-align: left;
+}
+
+/* Images */
+img {
+    max-height: 256px;
+    max-width: 256px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+h5 {
+    color: grey;
+    text-align: left;
+    padding-left: 32px;}

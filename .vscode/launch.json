@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open tokyo.html",
+            "file": "c:\\Users\\herrm\\OneDrive\\Documents\\kb2\\labo 2\\tokyo.html"
+        }
+    ]
+}
