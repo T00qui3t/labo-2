@@ -4,9 +4,8 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Bannière du titre h1 */
 h1 {
-    background-image:url("Images/banniere.jpg");
+    background-image: url("Images/banniere.jpg");
     background-position: center;
     background-size: cover;
     padding-top: 32px;
